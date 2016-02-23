@@ -1,7 +1,7 @@
 name: Trifecta
 favicon: null
 layout_spectrum: 0.5419352266471833
-typography_spectrum: 0.9747261377051473
+typography_spectrum: 0.10458
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.1399822614621371
+    - '#ffffff'
+    - '#e9e9e9'
+    - '#cdcdcd'
+    - '#f4673b'
+    - '#9a9a9a'
+  brandStrength: 0.5
   lightness: 0.9229765553027391
   saturation: 0.5362107157707214
-  rhythmicContrast: 0.40634433389641345
+  rhythmicContrast: 0.5
 purpose: []
